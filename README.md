@@ -127,7 +127,7 @@
 
 32. Nama : Reza Pangestu
     Link GitHub : https://github.com/rezaapangestu313
-33. Nama : Siti Nurlia Kilmas
+33. Nama : Siti
 
     Link Github : https://github.com/sutset
 
